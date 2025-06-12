@@ -1,0 +1,25 @@
+# Large files
+dataset/similarity.pkl
+dataset/*.tsv
+dataset/*.csv
+dataset/*.gz
+dataset/*.zip
+dataset/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+
+__pycache__/
+*.pyc
+.env
+dataset/
